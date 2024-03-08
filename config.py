@@ -78,21 +78,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://mallucampaign.in/images/img_1709872058.jpg"
+    "START_IMG_URL", "https://mallucampaign.in/images/img_1709883815.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://mallucampaign.in/images/img_1709872074.jpg"
+    "PING_IMG_URL", "https://mallucampaign.in/images/img_1709872066.jpg"
 )
 PLAYLIST_IMG_URL = "https://mallucampaign.in/images/img_1709872066.jpg"
-STATS_IMG_URL = "https://mallucampaign.in/images/img_1709872058.jpg"
+STATS_IMG_URL = "https://mallucampaign.in/images/img_1709872074.jpg"
 TELEGRAM_AUDIO_URL = "https://mallucampaign.in/images/img_1709872066.jpg"
-TELEGRAM_VIDEO_URL = "https://mallucampaign.in/images/img_1709872070.jpg"
+TELEGRAM_VIDEO_URL = "https://mallucampaign.in/images/img_1709872058.jpg"
 STREAM_IMG_URL = "https://mallucampaign.in/images/img_1709872070.jpg"
-SOUNCLOUD_IMG_URL = "https://mallucampaign.in/images/img_1709872074.jpg"
-YOUTUBE_IMG_URL = "https://mallucampaign.in/images/img_1709872070.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://mallucampaign.in/images/img_1709872058.jpg"
+SOUNCLOUD_IMG_URL = "https://mallucampaign.in/images/img_1709872066.jpg"
+YOUTUBE_IMG_URL = "https://mallucampaign.in/images/img_1709872058.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://mallucampaign.in/images/img_1709872070.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://mallucampaign.in/images/img_1709872066.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://mallucampaign.in/images/img_1709872070.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://mallucampaign.in/images/img_1709872074.jpg"
 
 
 def time_to_seconds(time):
